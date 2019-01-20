@@ -1,6 +1,8 @@
 # Augmented_Reality-Proje1
 
-### ---> Google Play => [Rhino in the Maze AR](https://play.google.com/store/apps/details?id=com.GTU.HW1Project)
+### ---> Project => [Project1](../master/Project1.pdf)
+
+### Google Play => [Rhino in the Maze AR](https://play.google.com/store/apps/details?id=com.GTU.HW1Project)
 
 ### MARKER (ImageTarget): 
 ![alt text](https://github.com/yunuscevik/Augmented_Reality-Proje1/blob/master/Marker/Cakil_Tasi_Marker.jpg "Logo Title Text 1")
